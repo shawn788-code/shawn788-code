@@ -1,5 +1,5 @@
 <div align="center">
-<img src="BANNIERE_URL" width="100%">
+<img src="./IMG_2242.jpeg" width="100%">
 
 
 Computer Science Student • C / SDL2 • Linux
