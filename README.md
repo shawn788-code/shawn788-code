@@ -1,7 +1,6 @@
 <div align="center">
 <img src="BANNIERE_URL" width="100%">
 
-🩸 YOUSSEF
 
 Computer Science Student • C / SDL2 • Linux
 
@@ -11,34 +10,33 @@ Computer Science Student • C / SDL2 • Linux
 
 ⸻
 
-🩸 About me
 
-* 🎓 Computer Science student
-* 💻 Currently working with C
-* 🎮 Building projects with SDL2
-* 🐧 Development environment: Linux + VS Code
-* 🧠 Interested in algorithms, programming and computer science
+* Computer Science student
+* Currently working with C
+* Building projects with SDL2
+* Development environment: Linux + VS Code
+* Interested in algorithms, programming and computer science
 
 ⸻
 
-⚔️ Currently working on
+Currently working on
 
-🚇 Metro Network Simulation
+Metro Network Simulation
 
 A C/SDL2 project simulating a metro network with:
 
-* 🚉 Stations and lines
-* 🚆 Moving trains
-* 👥 Passenger management
-* 🧠 Graph representation
-* 🔎 Pathfinding algorithms
-* 🎨 SDL2 visualization
+* Stations and lines
+* Moving trains
+* Passenger management
+* Graph representation
+* Pathfinding algorithms
+* SDL2 visualization
 
 ⸻
 
 <div align="center">
 
-🩸 赫子
+赫子
 
 ████████████████████████████████████████
         ██████╗ ██████╗ ██████╗
@@ -49,6 +47,6 @@ A C/SDL2 project simulating a metro network with:
         ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
 ████████████████████████████████████████
 
-🩸 Thanks for visiting
+Thanks for visiting
 
 </div>
