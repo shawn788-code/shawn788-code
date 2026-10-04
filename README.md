@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+<img src="BANNIERE_URL" width="100%">
 
-<!--
-**shawn788-code/shawn788-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🩸 YOUSSEF
 
-Here are some ideas to get you started:
+Computer Science Student • C / SDL2 • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“This world is rotten.”
+
+</div>
+
+⸻
+
+🩸 About me
+
+* 🎓 Computer Science student
+* 💻 Currently working with C
+* 🎮 Building projects with SDL2
+* 🐧 Development environment: Linux + VS Code
+* 🧠 Interested in algorithms, programming and computer science
+
+⸻
+
+⚔️ Currently working on
+
+🚇 Metro Network Simulation
+
+A C/SDL2 project simulating a metro network with:
+
+* 🚉 Stations and lines
+* 🚆 Moving trains
+* 👥 Passenger management
+* 🧠 Graph representation
+* 🔎 Pathfinding algorithms
+* 🎨 SDL2 visualization
+
+⸻
+
+<div align="center">
+
+🩸 赫子
+
+████████████████████████████████████████
+        ██████╗ ██████╗ ██████╗
+       ██╔════╝██╔═══██╗██╔══██╗
+       ██║     ██║   ██║██████╔╝
+       ██║     ██║   ██║██╔══██╗
+       ╚██████╗╚██████╔╝██║  ██║
+        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+████████████████████████████████████████
+
+🩸 Thanks for visiting
+
+</div>
